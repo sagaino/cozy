@@ -1,6 +1,6 @@
 # find_house_app
 
-A new Flutter project.
+project flutter using provider as state management
 
 ## Getting Started
 
